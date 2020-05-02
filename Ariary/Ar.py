@@ -19,4 +19,4 @@ B=A.reshape(1101, 1)
 
 pointMax=B.max()
 pointMin=B[-200]
-print("L'ariary va se negocier autour de", pointMin, "et de", pointMax,"Ariary")
+print("L'euros va se negocier autour de", pointMin, "et de", pointMax,"Ariary")
